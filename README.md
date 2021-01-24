@@ -1,6 +1,6 @@
 # Shop-Shop
 
- <a href="https://sylvester-pizza-hunt.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
+ <a href="https://shop-shop-mern.herokuapp.com/">![Deployed App](https://img.shields.io/badge/-Deployed-success?style=for-the-badge)</a>![Repo Size](https://img.shields.io/github/repo-size/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Languages](https://img.shields.io/github/languages/count/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)![Prominent Language](https://img.shields.io/github/languages/top/CFsylvester/budget-tracker?color=inactive&style=for-the-badge)
 
 ## Description
 Shop-Shop is an ecommerce MERN application. Users are able to browse items and add them to a cart, which will persist if the website is left. Additionally, users can create an account to keep track of what items they have purchased. The payment processing platform used is Stripe.
@@ -17,17 +17,23 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   
 ## Usage
 
-#### Online Application:
-<img src="./public/assets/images/homepage.png" height="400" width="600">
+#### Signup Form:
+<img src='./readme/signup.png' height="400" width="600">
 
-#### Pizza Discussion:
-<img src="./public/assets/images/discussion.png" height="400" width="600">
+#### Application Homepage:
+<img src='./readme/homepage.png' height="400" width="600">
 
-#### Create Pizza:
-<img src="./public/assets/images/add-pizza.png" height="400" width="600">
+#### Product Page:
+<img src='./readme/single.png' height="400" width="600">
 
- #### Offline Inputs using IndexedDB:
-<img src="./public/assets/images/indexeddb.png" height="400" width="600">
+#### Shopping Cart:
+<img src='./readme/cart.png' height="400" width="600">
+
+ #### Stripe Checkout:
+<img src='./readme/stripe.png' height="400" width="600">
+
+ #### User Order History:
+<img src='./readme/order-history.png' height="400" width="600">
 
  
   
@@ -67,7 +73,7 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%shop-shop]%20Source%20Han%20Sans)
 
   ## Links
-  - **[Deployed App](https://sylvester-pizza-hunt.herokuapp.com/)**
+  - **[Deployed App](https://shop-shop-mern.herokuapp.com/)**
   - **[GitHub Repo](https://github.com/CFsylvester/shop-shop)**
   - **[My Portfolio](clairecodes.dev)**
   - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
