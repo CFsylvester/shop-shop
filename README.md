@@ -34,7 +34,7 @@ Instead of a RESTful API, Shop-Shop utilizes GraphQL paired with Apollo. This is
   ## Installation
   Node.js, NPM, and MongoDB must be installed on your computer. <br />
   <br />Clone the repo: <br />
-      `git clone https://github.com/CFsylvester/pizza-hunt.git` <br />
+      `git clone https://github.com/CFsylvester/shop-shop.git` <br />
   <br />Navigate to the root directory and run: <br />
       `npm install` <br />
   <br />To start the server locally, run the following: <br />
